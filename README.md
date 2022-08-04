@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=jupyter%20notebook&layout=compact&username=topazape" />
-</a>
-
-
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=topazape&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topazape&layout=compact&hide=jupyter%20notebook" />
