@@ -1,4 +1,4 @@
-# Hi, I'm topazape 👋
+## Hi, I'm topazape 👋
 
 - 📺 Data scientist & data engineer working on advertising effectiveness measurement for an ad-supported streaming (AVOD) service in Japan
 - 📊 Statistics: Bayesian modeling with Stan (brms) and causal inference in R
@@ -10,8 +10,8 @@
 ## GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=topazape&count_private=true&include_all_commits=true&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=topazape&layout=compact&hide=jupyter%20notebook,javascript" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=topazape&count_private=true&include_all_commits=true&show_icons=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=topazape&layout=compact&hide=jupyter%20notebook,javascript" />
 </p>
 <p>
   <img height="165" src="https://streak-stats.demolab.com?user=topazape&date_format=M%20j%5B%2C%20Y%5D" />
